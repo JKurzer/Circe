@@ -17,6 +17,31 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
+			"Name": "Iris",
+			"Enabled": true
+		},
+		{
+			"Name": "CineCameraRigs",
+			"Enabled": true
+		},
+		{
+			"Name": "CameraCalibration",
+			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "UniversalCameraPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a9172fdfc87c464eae3a49860ee2610f"
 		}
 	]
 }
